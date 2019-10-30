@@ -6,3 +6,7 @@ To facilitate the use of this method, we have developed a Cytoscape app, named R
 
 #### Conclusions
 Considering a few computational methods have been developed as software tools for convenient uses, RWRMTN is among the first GUI-based tools for the prediction of disease-associated miRNAs which can be used in workflows in different environments.
+
+#### Availability
+RWRMTN is distributed as a Cytoscape app, and can be downloaded freely at Cytoscape App https://apps.cytoscape.org/apps/rwrmtn for non-commercial use
+
